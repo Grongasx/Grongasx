@@ -56,19 +56,20 @@ Sistema web completo para automação operacional, acompanhamento de pedidos em 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Atividade e Impacto de Código
 
+<!-- Heatmap real de contribuições e commits do seu GitHub -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GrongasX&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrongasX&layout=compact&theme=tokyonight" alt="Linguagens Mais Utilizadas" height="165" />
+  <p><b>Histórico de Contribuições (Commits em Tempo Real):</b></p>
+  <img src="https://ghchart.rshah.org/512BD4/GrongasX" alt="Gráfico de Contribuições de Gustavo Batista" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=GrongasX&theme=tokyonight" alt="Sequência de Commits" height="165" />
+  <!-- Frequência de trabalho (Streak) -->
+  <img src="https://streak-stats.demolab.com/?user=GrongasX&theme=tokyonight" alt="Frequência de Commits" width="85%" />
 </div>
-
 ---
 
 ## 📫 Vamos nos conectar?
