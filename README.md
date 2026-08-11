@@ -1,7 +1,7 @@
-[# Hi there, I'm Gustavo Batista 👋
+# Hi there, I'm Gustavo Batista 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=512BD4&center=true&vCenter=true&width=500&lines=Desenvolvedor+Software;Especialista+Python+%26+C%23+.NET;Backend+%26+Arquitetura+SaaS;Sistemas+Web+%26+Gest%C3%A3o+de+Processos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=512BD4&center=true&vCenter=true&width=500&lines=Desenvolvedor+Software;+Python+%26+C%23+.NET;Backend+%26+Arquitetura+SaaS;Sistemas+Web+%26+Gest%C3%A3o+de+Processos" alt="Typing SVG" />
 </p>
 
 ## 🚀 Sobre Mim
@@ -37,7 +37,7 @@ Sou desenvolvedor focado no ecossistema **Python** e **C# .NET**, construindo so
 
 ## 📌 Projetos em Destaque
 
-### 🌐 [Blog WebRiders](#) — Plataforma SaaS de Conteúdo
+### 🌐 [Blog WebRiders](https://github.com/GrongasX) — Plataforma SaaS de Conteúdo
 Uma plataforma moderna de blog no modelo **SaaS**, desenvolvida para gestão de publicações, engajamento de leitores e conformidade legal.
 
 *   **Modelagem de Dados:** Estrutura dinâmica e otimizada de posts armazenados em banco de dados relacional.
@@ -46,7 +46,7 @@ Uma plataforma moderna de blog no modelo **SaaS**, desenvolvida para gestão de 
 
 ---
 
-### 🍽️ [Sabor Grego](#) — WebApp de Gestão Integrada para Restaurantes
+### 🍽️ [Sabor Grego](https://github.com/GrongasX) — WebApp de Gestão Integrada para Restaurantes
 Sistema web completo para automação operacional, acompanhamento de pedidos em tempo real e inteligência de negócios no setor alimentício.
 
 *   **Captura e Gestão de Pedidos:** Entrada e processamento eficiente dos pedidos enviados pelos clientes.
@@ -59,19 +59,19 @@ Sistema web completo para automação operacional, acompanhamento de pedidos em 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight" alt="Linguagens Mais Utilizadas" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GrongasX&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrongasX&layout=compact&theme=tokyonight" alt="Linguagens Mais Utilizadas" height="165" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight" alt="Sequência de Commits" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=GrongasX&theme=tokyonight" alt="Sequência de Commits" height="165" />
 </div>
 
 ---
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)](https://www.linkedin.com/in/gustavo-batista-58350236a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-batista-58350236a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavinihb12@gmail.com)
